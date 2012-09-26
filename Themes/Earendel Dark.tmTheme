@@ -111,9 +111,9 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string>italic</string>
+				<string></string>
 				<key>foreground</key>
-				<string>#dc8511</string>
+				<string>#CACACA</string>
 			</dict>
 		</dict>
 		<dict>
