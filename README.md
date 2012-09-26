@@ -8,9 +8,3 @@ This is a port of the [earendel](http://www.vim.org/scripts/script.php?script_id
 2. Unzip or unpack the package if it isn't already. 
 3. Copy the file `Earendel.tmTheme` to `~/Library/Application\ Support/TextMate/Themes/Earendel.tmTheme`.
 4. Open TextMate, from the _TextMate_ menu choose _Preferences_ and then the _Fonts and Colors_ tab. From the select menu choose _Earendel_.
-
-## Problems
-
-If you find any issues with the theme, I invite you to report them in the [github Issues tracker](http://github.com/jbergantine/Birds-of-Paradise-for-TextMate/issues) for the project. 
-
-You may also email me [jbergantine@gmail.com](mailto:jbergantine@gmail.com).
