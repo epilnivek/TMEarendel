@@ -3,28 +3,28 @@
 <plist version="1.0">
 <dict>
 	<key>author</key>
-	<string>Joe Bergantine</string>
+	<string>Kevin Lipe</string>
 	<key>name</key>
-	<string>Birds of Paradise</string>
+	<string>Earendel Dark</string>
 	<key>semanticClass</key>
-	<string>theme.dark.birds-of-paradise</string>
+	<string>theme.dark.earendel</string>
 	<key>settings</key>
 	<array>
 		<dict>
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#372725</string>
+				<string>#303030</string>
 				<key>caret</key>
-				<string>#DDDDDD</string>
+				<string>#ffffff</string>
 				<key>foreground</key>
-				<string>#E6E1C4</string>
+				<string>#CACACA</string>
 				<key>invisibles</key>
-				<string>#42302D</string>
+				<string>#505050</string>
 				<key>lineHighlight</key>
-				<string>#281C1C66</string>
+				<string>#35466a</string>
 				<key>selection</key>
-				<string>#1E1C1C</string>
+				<string>#35466a</string>
 			</dict>
 		</dict>
 		<dict>
