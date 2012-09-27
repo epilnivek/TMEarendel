@@ -1,6 +1,6 @@
 # TMEarendel: Earendel for TextMate
 
-This is a port of the [earendel](http://www.vim.org/scripts/script.php?script_id=2188) colorscheme for Vim to a TextMate theme bundle. I used Joe Bergantine's [Birds of Paradise](https://github.com/jbergantine/Birds-of-Paradise-for-TextMate) TextMate bundle as a starting point.
+This is a port of the dark variant of the [earendel](http://www.vim.org/scripts/script.php?script_id=2188) colorscheme for Vim to a TextMate theme bundle. I used Joe Bergantine's [Birds of Paradise](https://github.com/jbergantine/Birds-of-Paradise-for-TextMate) TextMate bundle as a starting point.
 
 ## Installation
 

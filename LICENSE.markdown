@@ -1,6 +1,7 @@
-Earendel changes copyright (c) 2012, Kevin Lipe.
 Copyright (c) 2010, Joe Bergantine.
 All rights reserved.
+
+Earendel changes copyright (c) 2012, Kevin Lipe.
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
 
